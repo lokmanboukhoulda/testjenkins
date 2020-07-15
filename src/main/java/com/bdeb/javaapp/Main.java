@@ -13,6 +13,7 @@ package com.bdeb.javaapp;
 public class Main {
 public static void main(String[] args) {
     System.out.println("Hello World");
-    System.out.println("Au revoie!");
+    System.out.println("Au revoir!");
+    System.out.println("Merci!");
 }
 }
