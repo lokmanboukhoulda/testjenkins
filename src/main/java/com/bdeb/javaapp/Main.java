@@ -15,5 +15,6 @@ public static void main(String[] args) {
     System.out.println("Hello World");
     System.out.println("Au revoir!");
     System.out.println("Merci!");
+    System.out.println("Encore un autre");
 }
 }
